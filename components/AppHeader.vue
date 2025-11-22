@@ -20,9 +20,9 @@
             </NuxtLink>
           </div>
 
-          <NuxtLink id="nav-link-contact" to="/contact-me" :class="{ active: isActive('/contact-me')}">
+          <!-- <NuxtLink id="nav-link-contact" to="/contact-me" :class="{ active: isActive('/contact-me')}">
             _contact-me
-          </NuxtLink>
+          </NuxtLink> -->
       
       </nav>
 

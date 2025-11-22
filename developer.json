@@ -63,7 +63,7 @@
         "direct": {
             "title": "contacts",
             "sources": {
-                "email": "phamkhaihoan.workspace@gmail.com",
+                "email": "phamkhaihoan.work</b> space@gmail.com",
                 "phone": "+84 777 625 195"
             }
         },
@@ -90,7 +90,7 @@
                 "instagram": {
                     "title": "Instagram account",
                     "url": "https://instagram.com/",
-                    "user": "username"
+                    "user": ""
                 }
             }
         }
@@ -101,46 +101,46 @@
     },
     "projects": {
         "1": {
-            "title": "_ai-chatbot",
-            "description": "Chatbot for automated Q&A support.",
-            "img": "/images/projects/ai-resources.png",
-            "tech": ["Python", "AI"],
-            "url": "https://github.com/"
+            "title": "_movie-booking",
+            "description": "Movie booking.",
+            "img": "/images/projects/movie.png",
+            "tech": ["React", "JS"],
+            "url": "https://github.com/PhamKhaiHoan/Movie_Booking"
         },
         "2": {
-            "title": "_robot-control",
-            "description": "Control system for robotic arms.",
-            "img": "/images/projects/ui-animations2.png",
-            "tech": ["C++", "Python"],
-            "url": "https://github.com/"
+            "title": "_web-template",
+            "description": "Samar website.",
+            "img": "/images/projects/samar.png",
+            "tech": ["HTML", "CSS"],
+            "url": "https://github.com/PhamKhaiHoan/SAMAR"
         },
         "3": {
             "title": "_web-portfolio",
             "description": "Personal website showcasing projects.",
-            "img": "/images/projects/worldmap.png",
+            "img": "/images/projects/portfolio.png",
             "tech": ["Vue", "JS"],
-            "url": "https://github.com/"
+            "url": "https://github.com/PhamKhaiHoan/PORTFOLIO"
         },
         "4": {
-            "title": "_data-analysis",
-            "description": "Stock market data analysis.",
-            "img": "/images/projects/ui-animations.png",
-            "tech": ["Python", "Pandas"],
-            "url": "https://github.com/"
+            "title": "_web-marketing",
+            "description": "Meipaly marketing website.",
+            "img": "/images/projects/meipaly.png",
+            "tech": ["HTML", "CSS"],
+            "url": "https://github.com/PhamKhaiHoan/Meipaly"
         },
         "5": {
-            "title": "_snake-game",
-            "description": "Classic Snake game.",
-            "img": "/images/projects/tetris-game.png",
-            "tech": ["JavaScript"],
-            "url": "https://github.com/"
+            "title": "_gan-train",
+            "description": "Training Gan model.",
+            "img": "/images/projects/ai-resources.png",
+            "tech": ["Python"],
+            "url": "https://github.com/PhamKhaiHoan/Gan_Train"
         },
         "6": {
-            "title": "_image-process",
-            "description": "Face recognition image processing.",
-            "img": "/images/projects/ethereum.png",
-            "tech": ["Python", "OpenCV"],
-            "url": "https://github.com/"
+            "title": "_web-service",
+            "description": "Astroship Pro service website.",
+            "img": "/images/projects/astro.png",
+            "tech": ["HTML", "CSS"],
+            "url": "https://github.com/PhamKhaiHoan/Astroship-Pro"
         }
     }
 }
