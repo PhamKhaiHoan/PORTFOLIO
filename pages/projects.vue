@@ -25,7 +25,7 @@
         <div v-for="tech in techs" :key="tech" class="flex items-center py-2">
           <input type="checkbox" :id="tech" @click="filterProjects(tech)">
           <img :id="'icon-tech-' + tech" :src="'/icons/techs/' + tech.toLowerCase() + '.svg'" alt="" class="tech-icon w-5 h-5 mx-4">
-          <label :for="tech" :id="'title-tech-' + tech.toLowerCase()">{{ tech }}</label>
+          <label :for="tech" :id="'title-tech-' + tech">{{ tech }}</label>
         </div>
       </nav>
     </div>

@@ -16,7 +16,7 @@
           <img
             v-for="tech in project.tech"
             :key="tech"
-            :src="'/icons/techs/filled/' + tech + '.svg'"
+            :src="'/icons/techs/filled/' + tech.toLowerCase() + '.svg'"
             alt=""
             class="w-6 h-6 mx-1 hover:opacity-75"
           />
