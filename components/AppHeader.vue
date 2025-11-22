@@ -1,7 +1,7 @@
 <template>
     <header id="navbar" class="w-full hidden lg:flex flex-col">
       <nav class="w-full flex justify-between border-bot">
-        <github-corner url="https://github.com/alexdeploy/developer-portfolio-v2" />
+        <github-corner url="https://github.com/PhamKhaiHoan" /> 
           <div class="flex">
             <NuxtLink id="nav-logo" to="/">
               {{ config.logo_name }}
@@ -50,7 +50,7 @@ export default {
 
 #nav-link {
   border-right: 1px solid #1E2D3D;
-  @apply text-menu-text font-fira_retina px-6 h-full flex items-center;
+  @apply text-menu-text text-lg font-fira_retina px-9 h-full flex items-center;
 }
 
 #nav-link-contact {
@@ -81,12 +81,12 @@ export default {
 #nav-logo.router-link-active {
   border-right: 1px solid #1E2D3D;
   border-bottom: none;
-  @apply text-menu-text;
+  @apply text-menu-text text-sm font-fira_retina px-14 h-full flex items-center;
 }
 
 #navbar > nav {
-  height: 45px;
-  font-size: 13px;
+  height: 80px;
+  font-size: 10px;
 }
 
 </style>
